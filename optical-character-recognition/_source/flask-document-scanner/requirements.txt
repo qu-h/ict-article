@@ -19,4 +19,4 @@ PyWavelets==0.5.2
 scikit-image==0.13.1
 scipy==0.19.1
 six==1.11.0
-Werkzeug==0.12.2
+Werkzeug==2.2.3
